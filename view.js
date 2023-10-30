@@ -43,7 +43,7 @@ function renderPagination() {
       type: "number",
       min: 1,
       max: maxPage,
-      style: "width: 3em; text-align: right;margin-right: var(--size-4-2)",
+      style: "min-width: 3em; text-align: right; margin-right: var(--size-4-2)",
     },
   });
   dv.el("span", `/ ${maxPage}`);
