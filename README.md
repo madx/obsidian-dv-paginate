@@ -2,6 +2,8 @@
 
 A Dataview view script to render a paginated collection
 
+[Screencast from 2023-10-30 01-10-01.webm](https://github.com/madx/obsidian-dv-paginate/assets/5723/06dc54fc-8938-4d3a-8fb9-67e7bfd967ec)
+
 ## Install
 
 Copy the `view.js` to a `Paginate` folder in your Vault (I recommend creating a dedicated folder for all Dataview views and creating the `Paginate` folder there).
